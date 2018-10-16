@@ -1,0 +1,25 @@
+h1{
+  font-family: 'Fascinate Inline', cursive;
+}
+
+td{
+  height: 150px;
+  width: 150px;
+  color: darkorange;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+}
+
+.jumbotron{
+  background-color: darkorange;
+}
+
+.container{
+  background-color: darkslategray;
+}
+
+body{
+  background-color: black;
+}
+
